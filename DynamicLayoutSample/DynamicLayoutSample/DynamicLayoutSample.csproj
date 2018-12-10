@@ -12,9 +12,7 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
     <PackageReference Include="LiveXAML" Version="2.1.57" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Xamarin.Forms.DynamicLayout\Xamarin.Forms.DynamicLayout.csproj" />
+    <PackageReference Include="Xamarin.Forms.DynamicLayout" Version="1.0.0" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
