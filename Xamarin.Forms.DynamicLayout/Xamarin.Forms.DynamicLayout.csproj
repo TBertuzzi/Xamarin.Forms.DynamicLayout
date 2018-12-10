@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>tbertuzzi</Authors>
+    <Company>KBits</Company>
+    <Description>Dynamic Layout for Xamarin.Forms. Use horizontal or vertical controls like a listview.</Description>
+    <Copyright>Copyright ©2018 KBits</Copyright>
+    <PackageLicenseUrl>http://opensource.org/licenses/MS-PL</PackageLicenseUrl>
+    <PackageIconUrl>https://github.com/TBertuzzi/Xamarin.Forms.DynamicLayout/blob/master/Resource/dynamicIcon.png?raw=true</PackageIconUrl>
+    <RepositoryUrl>https://github.com/TBertuzzi/Xamarin.Forms.DynamicLayout</RepositoryUrl>
+    <PackageTags>xamarin.forms xamarin forms listview stacklayout layout listview</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/TBertuzzi/Xamarin.Forms.DynamicLayout</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
