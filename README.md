@@ -6,7 +6,7 @@ Use horizontal or vertical controls like a listview.
  
  ###### This is the component, works on iOS, Android and UWP.
  
-
+![](https://github.com/TBertuzzi/Xamarin.Forms.DynamicLayout/blob/master/Resource/sampleApp.png?raw=true)
  
 **NuGet**
 
