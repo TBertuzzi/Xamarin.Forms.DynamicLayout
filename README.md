@@ -6,8 +6,9 @@ Use horizontal or vertical controls like a listview.
  
  ###### This is the component, works on iOS, Android and UWP.
  
-![](https://github.com/TBertuzzi/Xamarin.Forms.DynamicLayout/blob/master/Resource/sampleApp.png?raw=true)
- 
+ <a href="#">
+<img border="0" alt="W3Schools" src="Resource/sampleApp.png" width="210"   alt="SocialNetworkApp" /></a>
+
 **NuGet**
 
 |Name|Info|
