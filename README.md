@@ -7,13 +7,13 @@ Use horizontal or vertical controls like a listview.
  ###### This is the component, works on iOS, Android and UWP.
  
  <a href="#">
-<img border="0" alt="W3Schools" src="Resource/sampleApp.png" width="210"   alt="SocialNetworkApp" /></a>
+<img border="0" src="Resource/sampleApp.png" width="210"   alt="SocialNetworkApp" /></a>
 
 **NuGet**
 
 |Name|Info|
 | ------------------- | :------------------: |
-|MultiSelectListView|[![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue.svg)](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)|
+|MultiSelectListView|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.DynamicLayout)](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)|
 
 **Platform Support**
 
